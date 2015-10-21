@@ -1,0 +1,18 @@
+{
+  "name": "chatwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hikaruna",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-packager": "^5.1.0",
+    "electron-prebuilt": "^0.33.3"
+  },
+  "dependencies": {
+    "electron-open-link-in-browser": "^1.0.2"
+  }
+}
