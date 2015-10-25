@@ -1,1 +1,1 @@
-electron-packager . chatwork --platform=darwin --arch=x64 --version=0.33.3
+electron-packager . chatwork --platform=darwin --arch=x64 --version=0.33.3 --icon=chatwork.icns
